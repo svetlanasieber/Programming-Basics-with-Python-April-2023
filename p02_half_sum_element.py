@@ -18,23 +18,17 @@ import sys
 
 
 
-# Можете първо да прочетете броя на елементите, а след това да прочетете всяко число в списък.
-# След това можете да изчислите сумата на списъка и да преминете през всеки елемент,
-# за да проверите дали той е равен на сумата на останалите елементи.
-# Ако откриете такова, можете да отпечатате "Да" и сумата.
-# В противен случай можете да намерите най-големия
-# елемент и да отпечатате абсолютната разлика между него и сумата на останалите елементи.
 
-# Read the number of elements from the user
+
 n = int(input())
 
-# Read the elements into a list
+
 numbers = [int(input()) for _ in range(n)]
 
 # Calculate the total sum
 total_sum = sum(numbers)
 
-# Initialize a flag to check if such an element exists
+
 found = False
 
 # Check each element
