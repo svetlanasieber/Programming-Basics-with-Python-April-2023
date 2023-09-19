@@ -14,8 +14,3 @@ print(f"The architect {name_architect} will need {needed_hours_for_projects} hou
 
 
 
-# Лектор, примерно решение
-#architect_name = input()
-#projects_numbers = int(input())
-# Отнема му  по 3 часа да изпълни един проект.
-#print (f"The architect {architect_name} will need {projects_numbers * 3} hours to complete {projects_numbers} project/s.")
