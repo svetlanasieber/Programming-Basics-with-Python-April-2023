@@ -2,7 +2,7 @@
 
 n = int(input())
 
-# Initialize counters for each range
+
 count_p1 = 0
 count_p2 = 0
 count_p3 = 0
