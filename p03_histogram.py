@@ -1,9 +1,5 @@
-# За да решите този проблем, ще трябва да категоризирате входящите числа
-# в различни диапазони и след това да изчислите процента на числата, които попадат във всеки диапазон.
-# Можете да направите това, като използвате поредица от броячи, по един за всеки диапазон,
-# и след това разделите всеки от тях на общия брой входни числа (n), за да получите процента.
 
-# Read the number of elements from the user
+
 n = int(input())
 
 # Initialize counters for each range
@@ -13,7 +9,7 @@ count_p3 = 0
 count_p4 = 0
 count_p5 = 0
 
-# Read the numbers and update the counters
+
 for _ in range(n):
     num = int(input())
     if num < 200:
@@ -27,7 +23,7 @@ for _ in range(n):
     else:
         count_p5 += 1
 
-# Calculate and print the percentages
+
 print(f"{count_p1 / n * 100:.2f}%")
 print(f"{count_p2 / n * 100:.2f}%")
 print(f"{count_p3 / n * 100:.2f}%")
