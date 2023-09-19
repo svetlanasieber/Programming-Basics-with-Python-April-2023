@@ -1,2 +1,5 @@
 # Python-Basics
-SoftUni Python Basics
+SoftUni Programming Basics with Python
+
+
+
