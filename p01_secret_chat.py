@@ -1,4 +1,4 @@
-# Read the concealed message
+
 message = input()
 
 while True:
