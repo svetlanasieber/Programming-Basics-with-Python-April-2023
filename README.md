@@ -1,4 +1,5 @@
 # Software University (softuni.bg) - Programming Basics with Python
+# All Tasks are validated in the SoftUni Judge system: judge.softuni.org
 
 ![software-university-logo-2D117356A9-seeklogo com](https://github.com/svetlanasieber/Python-Basics/assets/135451084/52edf624-85a3-499b-bc52-f091dd1b0205)
 
